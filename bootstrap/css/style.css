@@ -1,0 +1,70 @@
+* {
+    font-family: 'Lato', sans-serif;
+    color: #fefffa;
+    font-weight: 300;
+}
+
+.email {
+	color: #AB560C;
+	font-size: 140%;
+
+	}
+
+.row {
+	text-align: center;
+
+ }
+
+.top-logo {
+float: left;
+}
+
+
+
+.all-info {
+	margin-top: 1%;
+	background-color: #13692B;
+}
+
+.info-box{
+	font-size: 25px;
+}
+
+.container {
+	border-width: 20px;
+	border-style: solid;
+	margin-top: 5%;
+	border-radius: 20px;
+	border-color: #AB560C;
+
+
+}
+
+.hazel-link {
+	font-size: 200%;
+	color: #AB560C;
+ }
+
+.title-super {
+	font-size: 700%;
+
+}
+
+
+.color-thin {
+	font-weight: 100%;
+}
+
+
+/* Horizontal rule
+hr {
+	height: 10px;
+	color: #999999;
+}*/
+
+
+/* Section
+.text-muted {
+	color: #999999;
+}
+*/
